@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 24 Sep 2023 00:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2023 00:44:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -29,6 +29,14 @@
       <pubDate>Fri, 22 Sep 2023 15:05:00 GMT</pubDate>
       <link>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1731579345</link>
       <guid>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1731579345</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v3.2.5</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v3.2.5 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5">More details</a></p>
+]]></description>
+      <pubDate>Wed, 27 Sep 2023 02:18:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</guid>
     </item>
     <item>
       <title>Released nodejs/llhttp release/v9.1.2</title>
@@ -55,6 +63,14 @@
       <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</guid>
     </item>
     <item>
+      <title>Released nodejs/node v20.8.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.8.0 by ruyadorno. <a href="https://github.com/nodejs/node/releases/tag/v20.8.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 29 Sep 2023 03:44:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.8.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.8.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/node v20.7.0</title>
       <description><![CDATA[<p>Released nodejs/node v20.7.0 by UlisesGascon. <a href="https://github.com/nodejs/node/releases/tag/v20.7.0">More details</a></p>
 ]]></description>
@@ -69,6 +85,22 @@
       <pubDate>Mon, 18 Sep 2023 22:00:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v18.18.0</link>
       <guid>https://github.com/nodejs/node/releases/tag/v18.18.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v4.0.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v4.0.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v4.0.0">More details</a></p>
+]]></description>
+      <pubDate>Sun, 24 Sep 2023 21:29:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v4.0.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v4.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v3.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v3.5.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v3.5.0">More details</a></p>
+]]></description>
+      <pubDate>Sun, 24 Sep 2023 09:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v3.5.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v3.5.0</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v3.4.2</title>
