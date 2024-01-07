@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 31 Dec 2023 00:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 00:45:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -77,6 +77,14 @@
       <pubDate>Wed, 25 Oct 2023 18:30:00 GMT</pubDate>
       <link>https://github.com/nodejs/caritat/releases/tag/v1.2.1</link>
       <guid>https://github.com/nodejs/caritat/releases/tag/v1.2.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.0.1</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.0.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 01 Jan 2024 23:45:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.0.1</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.0.1</guid>
     </item>
     <item>
       <title>Released nodejs/changelog-maker v4.0.0</title>
@@ -317,6 +325,14 @@
       <pubDate>Mon, 18 Sep 2023 22:00:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v18.18.0</link>
       <guid>https://github.com/nodejs/node/releases/tag/v18.18.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v4.2.3</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v4.2.3 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v4.2.3">More details</a></p>
+]]></description>
+      <pubDate>Thu, 04 Jan 2024 08:27:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v4.2.3</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v4.2.3</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v4.2.2</title>
