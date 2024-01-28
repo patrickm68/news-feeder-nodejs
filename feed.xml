@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 21 Jan 2024 00:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 00:41:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -37,6 +37,14 @@
       <pubDate>Fri, 22 Sep 2023 15:05:00 GMT</pubDate>
       <link>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1731579345</link>
       <guid>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1731579345</guid>
+    </item>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2024-01-26 16:06:49</title>
+      <description><![CDATA[<p>New SemVer minor version of Node-API released last week, planning to do a SemVer major release to next week to drop support for Node.js 16.x</p>
+]]></description>
+      <pubDate>Fri, 26 Jan 2024 16:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1912308665</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1912308665</guid>
     </item>
     <item>
       <title>Performance team update on 2023-10-02 19:03:09</title>
@@ -237,6 +245,14 @@
       <pubDate>Wed, 13 Sep 2023 10:32:00 GMT</pubDate>
       <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</link>
       <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v21.6.1</title>
+      <description><![CDATA[<p>Released nodejs/node v21.6.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.6.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 22 Jan 2024 19:26:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v21.6.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v21.6.1</guid>
     </item>
     <item>
       <title>Released nodejs/node v21.6.0</title>
@@ -501,6 +517,14 @@
       <pubDate>Mon, 18 Dec 2023 10:28:00 GMT</pubDate>
       <link>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</link>
       <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.5.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.5.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.5.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 26 Jan 2024 15:10:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.5.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.5.0</guid>
     </item>
     <item>
       <title>Released nodejs/undici v6.4.0</title>
