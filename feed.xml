@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 28 Jan 2024 00:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 00:42:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -495,6 +495,22 @@
       <guid>https://github.com/nodejs/node-gyp/releases/tag/v9.4.1</guid>
     </item>
     <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.1</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.1 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 31 Jan 2024 20:53:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.1</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.0</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.0 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 31 Jan 2024 20:51:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.0</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/readable-stream v4.5.2</title>
       <description><![CDATA[<p>Released nodejs/readable-stream v4.5.2 by mcollina. <a href="https://github.com/nodejs/readable-stream/releases/tag/v4.5.2">More details</a></p>
 ]]></description>
@@ -517,6 +533,14 @@
       <pubDate>Mon, 18 Dec 2023 10:28:00 GMT</pubDate>
       <link>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</link>
       <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.6.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.6.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.6.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 01 Feb 2024 09:35:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.6.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.6.0</guid>
     </item>
     <item>
       <title>Released nodejs/undici v6.5.0</title>
