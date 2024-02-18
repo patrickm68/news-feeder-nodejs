@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 11 Feb 2024 00:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 00:41:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -269,6 +269,30 @@
       <pubDate>Wed, 13 Sep 2023 10:32:00 GMT</pubDate>
       <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</link>
       <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v21.6.2</title>
+      <description><![CDATA[<p>Released nodejs/node v21.6.2 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.6.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 14 Feb 2024 17:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v21.6.2</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v21.6.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.11.1</title>
+      <description><![CDATA[<p>Released nodejs/node v20.11.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v20.11.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 14 Feb 2024 17:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.11.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.11.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v18.19.1</title>
+      <description><![CDATA[<p>Released nodejs/node v18.19.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v18.19.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 14 Feb 2024 17:42:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v18.19.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v18.19.1</guid>
     </item>
     <item>
       <title>Released nodejs/node v21.6.1</title>
