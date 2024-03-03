@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 25 Feb 2024 00:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 00:40:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -53,6 +53,14 @@
       <pubDate>Fri, 23 Feb 2024 16:22:00 GMT</pubDate>
       <link>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1961623416</link>
       <guid>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1961623416</guid>
+    </item>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2024-02-26 09:07:36</title>
+      <description><![CDATA[<p>If we decide to use a different issue, we need to update the references in https://github.com/nodejs/nodejs-news-feeder/blob/main/config.json#L28 and in https://github.com/nodejs/node/blob/main/doc/contributing/sharing-project-news.md?plain=1#L31, just to keep the automation updated. ~~I will create the PRs for this change in a moment~~</p>
+]]></description>
+      <pubDate>Mon, 26 Feb 2024 09:07:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1963630103</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1963630103</guid>
     </item>
     <item>
       <title>Performance team update on 2023-10-02 19:03:09</title>
