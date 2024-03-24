@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 17 Mar 2024 00:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 00:43:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -695,6 +695,14 @@
       <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</guid>
     </item>
     <item>
+      <title>Released nodejs/undici v6.10.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.10.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.10.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 21 Mar 2024 11:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.10.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.10.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/undici v6.9.0</title>
       <description><![CDATA[<p>Released nodejs/undici v6.9.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.9.0">More details</a></p>
 ]]></description>
@@ -925,14 +933,6 @@
       <pubDate>Tue, 03 Oct 2023 17:24:00 GMT</pubDate>
       <link>https://github.com/nodejs/undici/releases/tag/v5.23.4</link>
       <guid>https://github.com/nodejs/undici/releases/tag/v5.23.4</guid>
-    </item>
-    <item>
-      <title>Released nodejs/undici v5.25.3</title>
-      <description><![CDATA[<p>Released nodejs/undici v5.25.3 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.25.3">More details</a></p>
-]]></description>
-      <pubDate>Sun, 01 Oct 2023 14:53:00 GMT</pubDate>
-      <link>https://github.com/nodejs/undici/releases/tag/v5.25.3</link>
-      <guid>https://github.com/nodejs/undici/releases/tag/v5.25.3</guid>
     </item>
     <item>
       <title>Released nodejs/uvwasi v0.0.20</title>
