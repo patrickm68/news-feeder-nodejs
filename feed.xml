@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 14 Apr 2024 00:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 00:43:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -173,6 +173,22 @@
       <pubDate>Wed, 27 Sep 2023 02:18:00 GMT</pubDate>
       <link>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</link>
       <guid>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.28.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.28.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.28.0">More details</a></p>
+]]></description>
+      <pubDate>Sat, 20 Apr 2024 19:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.28.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.28.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.27.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.27.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.27.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 19 Apr 2024 08:24:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.27.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.27.0</guid>
     </item>
     <item>
       <title>Released nodejs/corepack v0.26.0</title>
@@ -789,6 +805,22 @@
       <pubDate>Mon, 18 Dec 2023 10:28:00 GMT</pubDate>
       <link>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</link>
       <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/remark-preset-lint-node v5.0.2</title>
+      <description><![CDATA[<p>Released nodejs/remark-preset-lint-node v5.0.2 by github-actions[bot]. <a href="https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.2">More details</a></p>
+]]></description>
+      <pubDate>Thu, 18 Apr 2024 16:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.2</link>
+      <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/remark-preset-lint-node v5.0.1</title>
+      <description><![CDATA[<p>Released nodejs/remark-preset-lint-node v5.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 18 Apr 2024 15:46:00 GMT</pubDate>
+      <link>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1</link>
+      <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1</guid>
     </item>
     <item>
       <title>Released nodejs/undici v6.13.0</title>
