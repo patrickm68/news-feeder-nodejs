@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 12 May 2024 00:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 00:45:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -407,6 +407,14 @@
       <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</guid>
     </item>
     <item>
+      <title>Released nodejs/node v22.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.2.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v22.2.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 15 May 2024 19:28:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.2.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.2.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/node v20.13.1</title>
       <description><![CDATA[<p>Released nodejs/node v20.13.1 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.13.1">More details</a></p>
 ]]></description>
@@ -637,14 +645,6 @@
       <pubDate>Tue, 17 Oct 2023 16:11:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v21.0.0</link>
       <guid>https://github.com/nodejs/node/releases/tag/v21.0.0</guid>
-    </item>
-    <item>
-      <title>Released nodejs/node v20.8.1</title>
-      <description><![CDATA[<p>Released nodejs/node v20.8.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v20.8.1">More details</a></p>
-]]></description>
-      <pubDate>Fri, 13 Oct 2023 21:09:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v20.8.1</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v20.8.1</guid>
     </item>
     <item>
       <title>Released nodejs/node-addon-api v8.0.0</title>
@@ -887,6 +887,14 @@
       <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1</guid>
     </item>
     <item>
+      <title>Released nodejs/undici v6.17.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.17.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.17.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 17 May 2024 06:07:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.17.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.17.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/undici v6.16.1</title>
       <description><![CDATA[<p>Released nodejs/undici v6.16.1 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.16.1">More details</a></p>
 ]]></description>
@@ -1117,14 +1125,6 @@
       <pubDate>Tue, 05 Dec 2023 08:47:00 GMT</pubDate>
       <link>https://github.com/nodejs/undici/releases/tag/v6.0.0</link>
       <guid>https://github.com/nodejs/undici/releases/tag/v6.0.0</guid>
-    </item>
-    <item>
-      <title>Released nodejs/undici v5.28.2</title>
-      <description><![CDATA[<p>Released nodejs/undici v5.28.2 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.28.2">More details</a></p>
-]]></description>
-      <pubDate>Thu, 30 Nov 2023 15:41:00 GMT</pubDate>
-      <link>https://github.com/nodejs/undici/releases/tag/v5.28.2</link>
-      <guid>https://github.com/nodejs/undici/releases/tag/v5.28.2</guid>
     </item>
     <item>
       <title>Released nodejs/uvwasi v0.0.21</title>
