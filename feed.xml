@@ -8,12 +8,38 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 26 May 2024 00:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 00:46:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Node.js Core update on 2024-05-27 04:17:32</title>
+      <description><![CDATA[<p>Is there a possibility of this being updated for 2024, IMO it feels outdated</p>
+<p>(This being the pinned discussion)</p>
+]]></description>
+      <pubDate>Mon, 27 May 2024 04:17:00 GMT</pubDate>
+      <link>https://github.com/orgs/nodejs/discussions/47703#discussioncomment-9565846</link>
+      <guid>https://github.com/orgs/nodejs/discussions/47703#discussioncomment-9565846</guid>
+    </item>
+    <item>
+      <title>Node.js Core update on 2024-05-27 20:09:26</title>
+      <description><![CDATA[<p>Given that there has been nothing shared ~for almost a full year~ ever, maybe we can unpin this, close it, and remove it from the documentation?</p>
+]]></description>
+      <pubDate>Mon, 27 May 2024 20:09:00 GMT</pubDate>
+      <link>https://github.com/orgs/nodejs/discussions/47703#discussioncomment-9573565</link>
+      <guid>https://github.com/orgs/nodejs/discussions/47703#discussioncomment-9573565</guid>
+    </item>
+    <item>
+      <title>Node.js Core update on 2024-05-28 08:48:49</title>
+      <description><![CDATA[<p>Delivering news from the Node.js project POV seems to be a perennial issue. Folks like Michael have made efforts to improve this, but it doesn't fit into anyone's workflow enough to really stick. It reminds me of when you have a question at work, CC several people in, and no-one replies because they assume someone else was going to. :) (No judgment, BTW. This stuff is hard! And maybe there's a lot going on that I am unaware of.)</p>
+<p>This may not be the place for such a discussion, but does/could the Node.js project have <em>one</em> individual on the inside to handle outreach/press/public representation? I've seen the ambassador program, which might well be intended to cover this(?), but I worry that spreading the role across multiple people could have a similar diluting effect.</p>
+]]></description>
+      <pubDate>Tue, 28 May 2024 08:48:00 GMT</pubDate>
+      <link>https://github.com/orgs/nodejs/discussions/47703#discussioncomment-9578212</link>
+      <guid>https://github.com/orgs/nodejs/discussions/47703#discussioncomment-9578212</guid>
+    </item>
     <item>
       <title>Uvwasi team update on 2023-09-17 07:54:25</title>
       <description><![CDATA[<p>v0.0.19 was released which includes an initial implementation of the WASI preview 1 socket methods including https://github.com/WebAssembly/WASI/blob/main/legacy/preview1/docs.md#-sock_acceptfd-fd-flags-fdflags---resultfd-errno. The next step is to expose these in the Node.js WASI implementation.</p>
@@ -111,6 +137,14 @@
       <guid>https://github.com/nodejs/branch-diff/releases/tag/v2.1.5</guid>
     </item>
     <item>
+      <title>Released nodejs/caritat v1.4.0</title>
+      <description><![CDATA[<p>Released nodejs/caritat v1.4.0 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.4.0">More details</a></p>
+]]></description>
+      <pubDate>Sat, 01 Jun 2024 22:50:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v1.4.0</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v1.4.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/caritat v1.3.1</title>
       <description><![CDATA[<p>Released nodejs/caritat v1.3.1 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.3.1">More details</a></p>
 ]]></description>
@@ -189,6 +223,14 @@
       <pubDate>Wed, 27 Sep 2023 02:18:00 GMT</pubDate>
       <link>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</link>
       <guid>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.28.2</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.28.2 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.28.2">More details</a></p>
+]]></description>
+      <pubDate>Fri, 31 May 2024 10:50:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.28.2</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.28.2</guid>
     </item>
     <item>
       <title>Released nodejs/corepack v0.28.1</title>
@@ -285,6 +327,14 @@
       <pubDate>Sun, 08 Oct 2023 07:53:00 GMT</pubDate>
       <link>https://github.com/nodejs/corepack/releases/tag/v0.21.0</link>
       <guid>https://github.com/nodejs/corepack/releases/tag/v0.21.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/gyp-next v0.18.1</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.18.1 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.18.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 May 2024 09:19:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.18.1</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.18.1</guid>
     </item>
     <item>
       <title>Released nodejs/gyp-next v0.18.0</title>
@@ -405,6 +455,14 @@
       <pubDate>Wed, 13 Sep 2023 10:32:00 GMT</pubDate>
       <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</link>
       <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.14.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.14.0 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.14.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 28 May 2024 16:55:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.14.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.14.0</guid>
     </item>
     <item>
       <title>Released nodejs/node v18.20.3</title>
@@ -637,14 +695,6 @@
       <pubDate>Tue, 24 Oct 2023 14:00:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v21.1.0</link>
       <guid>https://github.com/nodejs/node/releases/tag/v21.1.0</guid>
-    </item>
-    <item>
-      <title>Released nodejs/node v20.9.0</title>
-      <description><![CDATA[<p>Released nodejs/node v20.9.0 by richardlau. <a href="https://github.com/nodejs/node/releases/tag/v20.9.0">More details</a></p>
-]]></description>
-      <pubDate>Tue, 24 Oct 2023 14:50:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v20.9.0</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v20.9.0</guid>
     </item>
     <item>
       <title>Released nodejs/node-addon-api v8.0.0</title>
@@ -895,6 +945,14 @@
       <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1</guid>
     </item>
     <item>
+      <title>Released nodejs/undici v6.18.2</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.18.2 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.18.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 May 2024 13:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.18.2</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.18.2</guid>
+    </item>
+    <item>
       <title>Released nodejs/undici v6.18.1</title>
       <description><![CDATA[<p>Released nodejs/undici v6.18.1 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.18.1">More details</a></p>
 ]]></description>
@@ -1125,14 +1183,6 @@
       <pubDate>Wed, 20 Dec 2023 15:33:00 GMT</pubDate>
       <link>https://github.com/nodejs/undici/releases/tag/v6.2.0</link>
       <guid>https://github.com/nodejs/undici/releases/tag/v6.2.0</guid>
-    </item>
-    <item>
-      <title>Released nodejs/undici v6.1.0</title>
-      <description><![CDATA[<p>Released nodejs/undici v6.1.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.1.0">More details</a></p>
-]]></description>
-      <pubDate>Wed, 20 Dec 2023 14:01:00 GMT</pubDate>
-      <link>https://github.com/nodejs/undici/releases/tag/v6.1.0</link>
-      <guid>https://github.com/nodejs/undici/releases/tag/v6.1.0</guid>
     </item>
     <item>
       <title>Released nodejs/uvwasi v0.0.21</title>
