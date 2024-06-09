@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 02 Jun 2024 00:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 00:48:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -135,6 +135,22 @@
       <pubDate>Wed, 25 Oct 2023 00:23:00 GMT</pubDate>
       <link>https://github.com/nodejs/branch-diff/releases/tag/v2.1.5</link>
       <guid>https://github.com/nodejs/branch-diff/releases/tag/v2.1.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/caritat v1.5.0</title>
+      <description><![CDATA[<p>Released nodejs/caritat v1.5.0 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.5.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 07 Jun 2024 21:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v1.5.0</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v1.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/caritat v1.4.1</title>
+      <description><![CDATA[<p>Released nodejs/caritat v1.4.1 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.4.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 06 Jun 2024 23:13:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v1.4.1</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v1.4.1</guid>
     </item>
     <item>
       <title>Released nodejs/caritat v1.4.0</title>
