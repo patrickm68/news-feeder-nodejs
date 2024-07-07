@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 30 Jun 2024 00:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:49:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -537,6 +537,14 @@
       <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</guid>
     </item>
     <item>
+      <title>Released nodejs/node v22.4.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.4.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v22.4.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 02 Jul 2024 09:10:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.4.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.4.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/node v20.15.0</title>
       <description><![CDATA[<p>Released nodejs/node v20.15.0 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.15.0">More details</a></p>
 ]]></description>
@@ -769,14 +777,6 @@
       <guid>https://github.com/nodejs/node/releases/tag/v18.19.0</guid>
     </item>
     <item>
-      <title>Released nodejs/node v20.10.0</title>
-      <description><![CDATA[<p>Released nodejs/node v20.10.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v20.10.0">More details</a></p>
-]]></description>
-      <pubDate>Wed, 22 Nov 2023 15:31:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v20.10.0</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v20.10.0</guid>
-    </item>
-    <item>
       <title>Released nodejs/node-addon-api v8.0.0</title>
       <description><![CDATA[<p>Released nodejs/node-addon-api v8.0.0 by legendecas. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.0.0">More details</a></p>
 ]]></description>
@@ -791,6 +791,14 @@
       <pubDate>Fri, 19 Jan 2024 08:53:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-addon-api/releases/tag/v7.1.0</link>
       <guid>https://github.com/nodejs/node-addon-api/releases/tag/v7.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.3.1</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.3.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.3.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 03 Jul 2024 07:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.3.1</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.3.1</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v5.3.0</title>
