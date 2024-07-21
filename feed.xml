@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 14 Jul 2024 00:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 00:50:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -111,6 +111,22 @@
       <pubDate>Wed, 04 Oct 2023 15:27:00 GMT</pubDate>
       <link>https://github.com/nodejs/performance/issues/98#issuecomment-1747124898</link>
       <guid>https://github.com/nodejs/performance/issues/98#issuecomment-1747124898</guid>
+    </item>
+    <item>
+      <title>Released nodejs/branch-diff v3.1.1</title>
+      <description><![CDATA[<p>Released nodejs/branch-diff v3.1.1 by github-actions[bot]. <a href="https://github.com/nodejs/branch-diff/releases/tag/v3.1.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 19 Jul 2024 14:08:00 GMT</pubDate>
+      <link>https://github.com/nodejs/branch-diff/releases/tag/v3.1.1</link>
+      <guid>https://github.com/nodejs/branch-diff/releases/tag/v3.1.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/branch-diff v3.1.0</title>
+      <description><![CDATA[<p>Released nodejs/branch-diff v3.1.0 by github-actions[bot]. <a href="https://github.com/nodejs/branch-diff/releases/tag/v3.1.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 16 Jul 2024 18:59:00 GMT</pubDate>
+      <link>https://github.com/nodejs/branch-diff/releases/tag/v3.1.0</link>
+      <guid>https://github.com/nodejs/branch-diff/releases/tag/v3.1.0</guid>
     </item>
     <item>
       <title>Released nodejs/branch-diff v3.0.5</title>
@@ -441,6 +457,14 @@
       <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.15.1</guid>
     </item>
     <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.9.1</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.9.1 by legendecas. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.9.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 15 Jul 2024 17:13:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.9.1</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.9.1</guid>
+    </item>
+    <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.9.0</title>
       <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.9.0 by legendecas. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.9.0">More details</a></p>
 ]]></description>
@@ -583,6 +607,22 @@
       <pubDate>Tue, 09 Jul 2024 19:09:00 GMT</pubDate>
       <link>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</link>
       <guid>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.5.1</title>
+      <description><![CDATA[<p>Released nodejs/node v22.5.1 by richardlau. <a href="https://github.com/nodejs/node/releases/tag/v22.5.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 19 Jul 2024 13:55:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.5.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.5.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.5.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.5.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 17 Jul 2024 16:08:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.5.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.5.0</guid>
     </item>
     <item>
       <title>Released nodejs/node v22.4.1</title>
@@ -807,22 +847,6 @@
       <pubDate>Mon, 15 Jan 2024 14:54:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v21.6.0</link>
       <guid>https://github.com/nodejs/node/releases/tag/v21.6.0</guid>
-    </item>
-    <item>
-      <title>Released nodejs/node v20.11.0</title>
-      <description><![CDATA[<p>Released nodejs/node v20.11.0 by UlisesGascon. <a href="https://github.com/nodejs/node/releases/tag/v20.11.0">More details</a></p>
-]]></description>
-      <pubDate>Wed, 10 Jan 2024 12:46:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v20.11.0</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v20.11.0</guid>
-    </item>
-    <item>
-      <title>Released nodejs/node v21.5.0</title>
-      <description><![CDATA[<p>Released nodejs/node v21.5.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.5.0">More details</a></p>
-]]></description>
-      <pubDate>Tue, 19 Dec 2023 19:15:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v21.5.0</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v21.5.0</guid>
     </item>
     <item>
       <title>Released nodejs/node-addon-api node-addon-api-v8.1.0</title>
@@ -1119,6 +1143,14 @@
       <pubDate>Mon, 18 Dec 2023 10:28:00 GMT</pubDate>
       <link>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</link>
       <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/remark-preset-lint-node v5.1.1</title>
+      <description><![CDATA[<p>Released nodejs/remark-preset-lint-node v5.1.1 by github-actions[bot]. <a href="https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.1.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 18 Jul 2024 22:12:00 GMT</pubDate>
+      <link>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.1.1</link>
+      <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.1.1</guid>
     </item>
     <item>
       <title>Released nodejs/remark-preset-lint-node v5.1.0</title>
