@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 21 Jul 2024 00:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 00:50:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -273,6 +273,14 @@
       <guid>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</guid>
     </item>
     <item>
+      <title>Released nodejs/corepack v0.29.3</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.29.3 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.29.3">More details</a></p>
+]]></description>
+      <pubDate>Sun, 21 Jul 2024 14:57:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.29.3</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.29.3</guid>
+    </item>
+    <item>
       <title>Released nodejs/corepack v0.29.2</title>
       <description><![CDATA[<p>Released nodejs/corepack v0.29.2 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.29.2">More details</a></p>
 ]]></description>
@@ -457,6 +465,14 @@
       <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.15.1</guid>
     </item>
     <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.10.0</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.10.0 by legendecas. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.10.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 23 Jul 2024 09:30:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.10.0</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.10.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.9.1</title>
       <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.9.1 by legendecas. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.9.1">More details</a></p>
 ]]></description>
@@ -607,6 +623,14 @@
       <pubDate>Tue, 09 Jul 2024 19:09:00 GMT</pubDate>
       <link>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</link>
       <guid>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.16.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.16.0 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.16.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 24 Jul 2024 12:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.16.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.16.0</guid>
     </item>
     <item>
       <title>Released nodejs/node v22.5.1</title>
@@ -839,14 +863,6 @@
       <pubDate>Mon, 22 Jan 2024 19:26:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v21.6.1</link>
       <guid>https://github.com/nodejs/node/releases/tag/v21.6.1</guid>
-    </item>
-    <item>
-      <title>Released nodejs/node v21.6.0</title>
-      <description><![CDATA[<p>Released nodejs/node v21.6.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.6.0">More details</a></p>
-]]></description>
-      <pubDate>Mon, 15 Jan 2024 14:54:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v21.6.0</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v21.6.0</guid>
     </item>
     <item>
       <title>Released nodejs/node-addon-api node-addon-api-v8.1.0</title>
@@ -1145,6 +1161,14 @@
       <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</guid>
     </item>
     <item>
+      <title>Released nodejs/remark-preset-lint-node v5.1.2</title>
+      <description><![CDATA[<p>Released nodejs/remark-preset-lint-node v5.1.2 by github-actions[bot]. <a href="https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.1.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 22 Jul 2024 19:45:00 GMT</pubDate>
+      <link>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.1.2</link>
+      <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.1.2</guid>
+    </item>
+    <item>
       <title>Released nodejs/remark-preset-lint-node v5.1.1</title>
       <description><![CDATA[<p>Released nodejs/remark-preset-lint-node v5.1.1 by github-actions[bot]. <a href="https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.1.1">More details</a></p>
 ]]></description>
@@ -1183,6 +1207,22 @@
       <pubDate>Mon, 17 Jun 2024 13:27:00 GMT</pubDate>
       <link>https://github.com/nodejs/tap2junit/releases/tag/v0.2.0</link>
       <guid>https://github.com/nodejs/tap2junit/releases/tag/v0.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.19.4</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.19.4 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.19.4">More details</a></p>
+]]></description>
+      <pubDate>Thu, 25 Jul 2024 10:12:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.19.4</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.19.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.19.3</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.19.3 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.19.3">More details</a></p>
+]]></description>
+      <pubDate>Mon, 22 Jul 2024 08:15:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.19.3</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.19.3</guid>
     </item>
     <item>
       <title>Released nodejs/undici v6.19.2</title>
@@ -1407,22 +1447,6 @@
       <pubDate>Thu, 01 Feb 2024 09:35:00 GMT</pubDate>
       <link>https://github.com/nodejs/undici/releases/tag/v6.6.0</link>
       <guid>https://github.com/nodejs/undici/releases/tag/v6.6.0</guid>
-    </item>
-    <item>
-      <title>Released nodejs/undici v6.5.0</title>
-      <description><![CDATA[<p>Released nodejs/undici v6.5.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.5.0">More details</a></p>
-]]></description>
-      <pubDate>Fri, 26 Jan 2024 15:10:00 GMT</pubDate>
-      <link>https://github.com/nodejs/undici/releases/tag/v6.5.0</link>
-      <guid>https://github.com/nodejs/undici/releases/tag/v6.5.0</guid>
-    </item>
-    <item>
-      <title>Released nodejs/undici v6.4.0</title>
-      <description><![CDATA[<p>Released nodejs/undici v6.4.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.4.0">More details</a></p>
-]]></description>
-      <pubDate>Fri, 19 Jan 2024 15:00:00 GMT</pubDate>
-      <link>https://github.com/nodejs/undici/releases/tag/v6.4.0</link>
-      <guid>https://github.com/nodejs/undici/releases/tag/v6.4.0</guid>
     </item>
     <item>
       <title>Released nodejs/uvwasi v0.0.21</title>
