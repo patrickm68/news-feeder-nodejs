@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 04 Aug 2024 00:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 00:51:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -625,12 +625,28 @@
       <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</guid>
     </item>
     <item>
+      <title>Released nodejs/nbytes v0.1.1</title>
+      <description><![CDATA[<p>Released nodejs/nbytes v0.1.1 by anonrig. <a href="https://github.com/nodejs/nbytes/releases/tag/v0.1.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 08 Aug 2024 16:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nbytes/releases/tag/v0.1.1</link>
+      <guid>https://github.com/nodejs/nbytes/releases/tag/v0.1.1</guid>
+    </item>
+    <item>
       <title>Released nodejs/nbytes v0.1.0</title>
       <description><![CDATA[<p>Released nodejs/nbytes v0.1.0 by anonrig. <a href="https://github.com/nodejs/nbytes/releases/tag/v0.1.0">More details</a></p>
 ]]></description>
       <pubDate>Tue, 09 Jul 2024 19:09:00 GMT</pubDate>
       <link>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</link>
       <guid>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.6.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.6.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.6.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 06 Aug 2024 18:04:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.6.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.6.0</guid>
     </item>
     <item>
       <title>Released nodejs/node v20.16.0</title>
@@ -865,14 +881,6 @@
       <guid>https://github.com/nodejs/node/releases/tag/v18.19.1</guid>
     </item>
     <item>
-      <title>Released nodejs/node v21.6.1</title>
-      <description><![CDATA[<p>Released nodejs/node v21.6.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.6.1">More details</a></p>
-]]></description>
-      <pubDate>Mon, 22 Jan 2024 19:26:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v21.6.1</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v21.6.1</guid>
-    </item>
-    <item>
       <title>Released nodejs/node-addon-api node-addon-api-v8.1.0</title>
       <description><![CDATA[<p>Released nodejs/node-addon-api node-addon-api-v8.1.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/node-addon-api-v8.1.0">More details</a></p>
 ]]></description>
@@ -903,6 +911,14 @@
       <pubDate>Tue, 09 Jul 2024 21:18:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-api-headers/releases/tag/v1.2.0</link>
       <guid>https://github.com/nodejs/node-api-headers/releases/tag/v1.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.4.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.4.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.4.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 07 Aug 2024 19:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.4.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.4.0</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v5.3.1</title>
@@ -1217,6 +1233,22 @@
       <guid>https://github.com/nodejs/tap2junit/releases/tag/v0.2.0</guid>
     </item>
     <item>
+      <title>Released nodejs/undici v6.19.7</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.19.7 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.19.7">More details</a></p>
+]]></description>
+      <pubDate>Fri, 09 Aug 2024 15:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.19.7</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.19.7</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.19.6</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.19.6 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.19.6">More details</a></p>
+]]></description>
+      <pubDate>Fri, 09 Aug 2024 08:39:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.19.6</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.19.6</guid>
+    </item>
+    <item>
       <title>Released nodejs/undici v6.19.5</title>
       <description><![CDATA[<p>Released nodejs/undici v6.19.5 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.19.5">More details</a></p>
 ]]></description>
@@ -1439,22 +1471,6 @@
       <pubDate>Wed, 07 Feb 2024 14:13:00 GMT</pubDate>
       <link>https://github.com/nodejs/undici/releases/tag/v6.6.2</link>
       <guid>https://github.com/nodejs/undici/releases/tag/v6.6.2</guid>
-    </item>
-    <item>
-      <title>Released nodejs/undici v6.6.1</title>
-      <description><![CDATA[<p>Released nodejs/undici v6.6.1 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.6.1">More details</a></p>
-]]></description>
-      <pubDate>Mon, 05 Feb 2024 11:32:00 GMT</pubDate>
-      <link>https://github.com/nodejs/undici/releases/tag/v6.6.1</link>
-      <guid>https://github.com/nodejs/undici/releases/tag/v6.6.1</guid>
-    </item>
-    <item>
-      <title>Released nodejs/undici v5.28.3</title>
-      <description><![CDATA[<p>Released nodejs/undici v5.28.3 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.28.3">More details</a></p>
-]]></description>
-      <pubDate>Mon, 05 Feb 2024 11:40:00 GMT</pubDate>
-      <link>https://github.com/nodejs/undici/releases/tag/v5.28.3</link>
-      <guid>https://github.com/nodejs/undici/releases/tag/v5.28.3</guid>
     </item>
     <item>
       <title>Released nodejs/uvwasi v0.0.21</title>
