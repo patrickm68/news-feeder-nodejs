@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 15 Sep 2024 00:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 00:56:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -665,6 +665,14 @@
       <guid>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</guid>
     </item>
     <item>
+      <title>Released nodejs/node v22.9.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.9.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.9.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 17 Sep 2024 21:07:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.9.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.9.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/node v22.8.0</title>
       <description><![CDATA[<p>Released nodejs/node v22.8.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.8.0">More details</a></p>
 ]]></description>
@@ -895,14 +903,6 @@
       <pubDate>Fri, 08 Mar 2024 22:06:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v21.7.1</link>
       <guid>https://github.com/nodejs/node/releases/tag/v21.7.1</guid>
-    </item>
-    <item>
-      <title>Released nodejs/node v21.7.0</title>
-      <description><![CDATA[<p>Released nodejs/node v21.7.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.7.0">More details</a></p>
-]]></description>
-      <pubDate>Wed, 06 Mar 2024 18:52:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v21.7.0</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v21.7.0</guid>
     </item>
     <item>
       <title>Released nodejs/node-addon-api node-addon-api-v8.1.0</title>
