@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 22 Sep 2024 00:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 00:57:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -433,6 +433,14 @@
       <guid>https://github.com/nodejs/corepack/releases/tag/v0.21.0</guid>
     </item>
     <item>
+      <title>Released nodejs/gyp-next v0.18.2</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.18.2 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.18.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 23 Sep 2024 13:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.18.2</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.18.2</guid>
+    </item>
+    <item>
       <title>Released nodejs/gyp-next v0.18.1</title>
       <description><![CDATA[<p>Released nodejs/gyp-next v0.18.1 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.18.1">More details</a></p>
 ]]></description>
@@ -487,6 +495,14 @@
       <pubDate>Tue, 03 Oct 2023 03:34:00 GMT</pubDate>
       <link>https://github.com/nodejs/gyp-next/releases/tag/v0.15.1</link>
       <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.15.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.1</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.1 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 26 Sep 2024 20:22:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.1</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.1</guid>
     </item>
     <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.0</title>
@@ -943,6 +959,14 @@
       <pubDate>Tue, 09 Jul 2024 21:18:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-api-headers/releases/tag/v1.2.0</link>
       <guid>https://github.com/nodejs/node-api-headers/releases/tag/v1.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.5.1</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.5.1 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.5.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 26 Sep 2024 16:12:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.5.1</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.5.1</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v5.5.0</title>
