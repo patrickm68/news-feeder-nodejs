@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 29 Sep 2024 00:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 00:57:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -497,6 +497,14 @@
       <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.15.1</guid>
     </item>
     <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.2</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.2 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 30 Sep 2024 14:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.2</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.2</guid>
+    </item>
+    <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.1</title>
       <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.1 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.1">More details</a></p>
 ]]></description>
@@ -679,6 +687,14 @@
       <pubDate>Tue, 09 Jul 2024 19:09:00 GMT</pubDate>
       <link>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</link>
       <guid>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.18.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.18.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v20.18.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 03 Oct 2024 18:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.18.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.18.0</guid>
     </item>
     <item>
       <title>Released nodejs/node v22.9.0</title>
@@ -913,12 +929,12 @@
       <guid>https://github.com/nodejs/node/releases/tag/v18.20.0</guid>
     </item>
     <item>
-      <title>Released nodejs/node v21.7.1</title>
-      <description><![CDATA[<p>Released nodejs/node v21.7.1 by targos. <a href="https://github.com/nodejs/node/releases/tag/v21.7.1">More details</a></p>
+      <title>Released nodejs/node-addon-api v8.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node-addon-api v8.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.2.0">More details</a></p>
 ]]></description>
-      <pubDate>Fri, 08 Mar 2024 22:06:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v21.7.1</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v21.7.1</guid>
+      <pubDate>Mon, 30 Sep 2024 14:29:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/v8.2.0</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/v8.2.0</guid>
     </item>
     <item>
       <title>Released nodejs/node-addon-api node-addon-api-v8.1.0</title>
