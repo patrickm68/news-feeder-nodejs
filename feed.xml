@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 06 Oct 2024 00:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 00:56:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -111,6 +111,14 @@
       <pubDate>Wed, 04 Oct 2023 15:27:00 GMT</pubDate>
       <link>https://github.com/nodejs/performance/issues/98#issuecomment-1747124898</link>
       <guid>https://github.com/nodejs/performance/issues/98#issuecomment-1747124898</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v0.1.9</title>
+      <description><![CDATA[<p>Released nodejs/amaro v0.1.9 by marco-ippolito. <a href="https://github.com/nodejs/amaro/releases/tag/v0.1.9">More details</a></p>
+]]></description>
+      <pubDate>Thu, 10 Oct 2024 10:22:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v0.1.9</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v0.1.9</guid>
     </item>
     <item>
       <title>Released nodejs/amaro v0.1.8</title>
@@ -929,6 +937,14 @@
       <guid>https://github.com/nodejs/node/releases/tag/v18.20.0</guid>
     </item>
     <item>
+      <title>Released nodejs/node-addon-api v8.2.1</title>
+      <description><![CDATA[<p>Released nodejs/node-addon-api v8.2.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.2.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 11 Oct 2024 15:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/v8.2.1</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/v8.2.1</guid>
+    </item>
+    <item>
       <title>Released nodejs/node-addon-api v8.2.0</title>
       <description><![CDATA[<p>Released nodejs/node-addon-api v8.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.2.0">More details</a></p>
 ]]></description>
@@ -1313,6 +1329,22 @@
       <guid>https://github.com/nodejs/tap2junit/releases/tag/v0.2.0</guid>
     </item>
     <item>
+      <title>Released nodejs/undici v7.0.0-alpha.2</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.0.0-alpha.2 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 09 Oct 2024 07:57:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.2</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.20.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.20.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.20.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 09 Oct 2024 07:51:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.20.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.20.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/undici v6.19.8</title>
       <description><![CDATA[<p>Released nodejs/undici v6.19.8 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.19.8">More details</a></p>
 ]]></description>
@@ -1535,22 +1567,6 @@
       <pubDate>Wed, 13 Mar 2024 08:45:00 GMT</pubDate>
       <link>https://github.com/nodejs/undici/releases/tag/v6.8.0</link>
       <guid>https://github.com/nodejs/undici/releases/tag/v6.8.0</guid>
-    </item>
-    <item>
-      <title>Released nodejs/undici v6.7.1</title>
-      <description><![CDATA[<p>Released nodejs/undici v6.7.1 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.7.1">More details</a></p>
-]]></description>
-      <pubDate>Fri, 08 Mar 2024 08:49:00 GMT</pubDate>
-      <link>https://github.com/nodejs/undici/releases/tag/v6.7.1</link>
-      <guid>https://github.com/nodejs/undici/releases/tag/v6.7.1</guid>
-    </item>
-    <item>
-      <title>Released nodejs/undici v6.7.0</title>
-      <description><![CDATA[<p>Released nodejs/undici v6.7.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.7.0">More details</a></p>
-]]></description>
-      <pubDate>Sun, 03 Mar 2024 17:08:00 GMT</pubDate>
-      <link>https://github.com/nodejs/undici/releases/tag/v6.7.0</link>
-      <guid>https://github.com/nodejs/undici/releases/tag/v6.7.0</guid>
     </item>
     <item>
       <title>Released nodejs/uvwasi v0.0.21</title>
