@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 27 Oct 2024 00:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 00:57:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -111,6 +111,14 @@
       <pubDate>Wed, 04 Oct 2023 15:27:00 GMT</pubDate>
       <link>https://github.com/nodejs/performance/issues/98#issuecomment-1747124898</link>
       <guid>https://github.com/nodejs/performance/issues/98#issuecomment-1747124898</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v0.2.0</title>
+      <description><![CDATA[<p>Released nodejs/amaro v0.2.0 by marco-ippolito. <a href="https://github.com/nodejs/amaro/releases/tag/v0.2.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 30 Oct 2024 12:51:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v0.2.0</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v0.2.0</guid>
     </item>
     <item>
       <title>Released nodejs/amaro v0.1.9</title>
@@ -705,6 +713,14 @@
       <guid>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</guid>
     </item>
     <item>
+      <title>Released nodejs/node v22.11.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.11.0 by richardlau. <a href="https://github.com/nodejs/node/releases/tag/v22.11.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 29 Oct 2024 15:11:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.11.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.11.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/node v23.1.0</title>
       <description><![CDATA[<p>Released nodejs/node v23.1.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v23.1.0">More details</a></p>
 ]]></description>
@@ -937,14 +953,6 @@
       <guid>https://github.com/nodejs/node/releases/tag/v21.7.2</guid>
     </item>
     <item>
-      <title>Released nodejs/node v20.12.1</title>
-      <description><![CDATA[<p>Released nodejs/node v20.12.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v20.12.1">More details</a></p>
-]]></description>
-      <pubDate>Wed, 03 Apr 2024 14:25:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v20.12.1</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v20.12.1</guid>
-    </item>
-    <item>
       <title>Released nodejs/node-addon-api v8.2.1</title>
       <description><![CDATA[<p>Released nodejs/node-addon-api v8.2.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.2.1">More details</a></p>
 ]]></description>
@@ -983,6 +991,14 @@
       <pubDate>Fri, 19 Jan 2024 08:53:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-addon-api/releases/tag/v7.1.0</link>
       <guid>https://github.com/nodejs/node-addon-api/releases/tag/v7.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-api-headers v1.4.0</title>
+      <description><![CDATA[<p>Released nodejs/node-api-headers v1.4.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-api-headers/releases/tag/v1.4.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 01 Nov 2024 15:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-api-headers/releases/tag/v1.4.0</link>
+      <guid>https://github.com/nodejs/node-api-headers/releases/tag/v1.4.0</guid>
     </item>
     <item>
       <title>Released nodejs/node-api-headers v1.3.0</title>
