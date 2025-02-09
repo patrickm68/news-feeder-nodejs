@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 02 Feb 2025 00:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 00:56:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -111,6 +111,14 @@
       <pubDate>Wed, 04 Oct 2023 15:27:00 GMT</pubDate>
       <link>https://github.com/nodejs/performance/issues/98#issuecomment-1747124898</link>
       <guid>https://github.com/nodejs/performance/issues/98#issuecomment-1747124898</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v0.3.2</title>
+      <description><![CDATA[<p>Released nodejs/amaro v0.3.2 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v0.3.2">More details</a></p>
+]]></description>
+      <pubDate>Tue, 04 Feb 2025 17:11:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v0.3.2</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v0.3.2</guid>
     </item>
     <item>
       <title>Released nodejs/amaro v0.3.1</title>
@@ -655,6 +663,14 @@
       <pubDate>Tue, 03 Oct 2023 03:34:00 GMT</pubDate>
       <link>https://github.com/nodejs/gyp-next/releases/tag/v0.15.1</link>
       <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.15.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.13.0</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.13.0 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.13.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 07 Feb 2025 08:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.13.0</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.13.0</guid>
     </item>
     <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.12.0</title>
@@ -1695,6 +1711,14 @@
       <pubDate>Thu, 18 Apr 2024 15:46:00 GMT</pubDate>
       <link>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1</link>
       <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/require-in-the-middle require-in-the-middle-v7.5.1</title>
+      <description><![CDATA[<p>Released nodejs/require-in-the-middle require-in-the-middle-v7.5.1 by nodejs-github-bot. <a href="https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v7.5.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 07 Feb 2025 08:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v7.5.1</link>
+      <guid>https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v7.5.1</guid>
     </item>
     <item>
       <title>Released nodejs/tap2junit v0.2.0</title>
