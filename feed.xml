@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 16 Feb 2025 00:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 00:58:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -111,6 +111,14 @@
       <pubDate>Wed, 04 Oct 2023 15:27:00 GMT</pubDate>
       <link>https://github.com/nodejs/performance/issues/98#issuecomment-1747124898</link>
       <guid>https://github.com/nodejs/performance/issues/98#issuecomment-1747124898</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v0.4.0</title>
+      <description><![CDATA[<p>Released nodejs/amaro v0.4.0 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v0.4.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 18 Feb 2025 14:31:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v0.4.0</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v0.4.0</guid>
     </item>
     <item>
       <title>Released nodejs/amaro v0.3.2</title>
@@ -289,6 +297,14 @@
       <guid>https://github.com/nodejs/caritat/releases/tag/v1.2.1</guid>
     </item>
     <item>
+      <title>Released nodejs/changelog-maker v4.4.0</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.0 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 19 Feb 2025 02:21:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.0</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/changelog-maker v4.3.3</title>
       <description><![CDATA[<p>Released nodejs/changelog-maker v4.3.3 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.3.3">More details</a></p>
 ]]></description>
@@ -391,6 +407,14 @@
       <pubDate>Wed, 27 Sep 2023 02:18:00 GMT</pubDate>
       <link>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</link>
       <guid>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/cjs-module-lexer 2.1.0</title>
+      <description><![CDATA[<p>Released nodejs/cjs-module-lexer 2.1.0 by mhdawson. <a href="https://github.com/nodejs/cjs-module-lexer/releases/tag/2.1.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 20 Feb 2025 18:25:00 GMT</pubDate>
+      <link>https://github.com/nodejs/cjs-module-lexer/releases/tag/2.1.0</link>
+      <guid>https://github.com/nodejs/cjs-module-lexer/releases/tag/2.1.0</guid>
     </item>
     <item>
       <title>Released nodejs/cjs-module-lexer 2.0.0</title>
@@ -937,6 +961,14 @@
       <guid>https://github.com/nodejs/ncrypto/releases/tag/1.0.0</guid>
     </item>
     <item>
+      <title>Released nodejs/node v18.20.7</title>
+      <description><![CDATA[<p>Released nodejs/node v18.20.7 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v18.20.7">More details</a></p>
+]]></description>
+      <pubDate>Thu, 20 Feb 2025 10:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v18.20.7</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v18.20.7</guid>
+    </item>
+    <item>
       <title>Released nodejs/node v23.8.0</title>
       <description><![CDATA[<p>Released nodejs/node v23.8.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v23.8.0">More details</a></p>
 ]]></description>
@@ -1169,12 +1201,12 @@
       <guid>https://github.com/nodejs/node/releases/tag/v22.5.1</guid>
     </item>
     <item>
-      <title>Released nodejs/node v22.5.0</title>
-      <description><![CDATA[<p>Released nodejs/node v22.5.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.5.0">More details</a></p>
+      <title>Released nodejs/node-addon-api v8.3.1</title>
+      <description><![CDATA[<p>Released nodejs/node-addon-api v8.3.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.3.1">More details</a></p>
 ]]></description>
-      <pubDate>Wed, 17 Jul 2024 16:08:00 GMT</pubDate>
-      <link>https://github.com/nodejs/node/releases/tag/v22.5.0</link>
-      <guid>https://github.com/nodejs/node/releases/tag/v22.5.0</guid>
+      <pubDate>Fri, 21 Feb 2025 16:12:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/v8.3.1</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/v8.3.1</guid>
     </item>
     <item>
       <title>Released nodejs/node-addon-api v8.3.0</title>
@@ -1735,6 +1767,14 @@
       <pubDate>Thu, 18 Apr 2024 15:46:00 GMT</pubDate>
       <link>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1</link>
       <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/require-in-the-middle require-in-the-middle-v7.5.2</title>
+      <description><![CDATA[<p>Released nodejs/require-in-the-middle require-in-the-middle-v7.5.2 by nodejs-github-bot. <a href="https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v7.5.2">More details</a></p>
+]]></description>
+      <pubDate>Fri, 21 Feb 2025 18:37:00 GMT</pubDate>
+      <link>https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v7.5.2</link>
+      <guid>https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v7.5.2</guid>
     </item>
     <item>
       <title>Released nodejs/require-in-the-middle require-in-the-middle-v7.5.1</title>
