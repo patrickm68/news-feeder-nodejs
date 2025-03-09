@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 02 Mar 2025 00:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 00:48:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
@@ -1631,6 +1631,14 @@
       <pubDate>Mon, 11 Dec 2023 20:46:00 GMT</pubDate>
       <link>https://github.com/nodejs/nodejs-cve-checker/releases/tag/v0.1.0</link>
       <guid>https://github.com/nodejs/nodejs-cve-checker/releases/tag/v0.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.10</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.10 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.10">More details</a></p>
+]]></description>
+      <pubDate>Tue, 04 Mar 2025 00:11:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.10</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.10</guid>
     </item>
     <item>
       <title>Released nodejs/nodejs-dist-indexer v1.7.9</title>
